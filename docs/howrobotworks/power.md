@@ -7,4 +7,4 @@ The robot operates off of a battery. From the battery, there is a main power cab
 ***
 
 ![Power Example](../images/PowerExample.jpg)
-An Example of multiple devices connected to a PDP
+> An Example of multiple devices connected to a PDP
