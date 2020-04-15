@@ -11,22 +11,33 @@
 <body style="overflow-y: scroll">
   <div id="app"></div>
 
+
   <script>
     window.$docsify = {
+      homepage: 'welcome.md',
       name: 'Fairport Robotics Electronics Wiki',
-      repo: 'https://github.com/BR88C/fairport-robotics-electronics-wiki'
-    }
-  </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
-
-  <script>
-    window.$docsify = {
       loadSidebar: true,
-      coverpage: true
+      coverpage: true,
+      subMaxLevel: 3,
+      name: '',
+      repo: '',
+
+      search: 'auto', // default
+
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+    }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
 </body>
 </html>

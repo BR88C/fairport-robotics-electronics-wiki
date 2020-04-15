@@ -1,2 +1,6 @@
 # **Team 578 Electronics Wiki**
-![](./images/coverpage.jpg)
+## Everything you need to know about electronics.
+
+![logo](images/logo.svg)
+
+
