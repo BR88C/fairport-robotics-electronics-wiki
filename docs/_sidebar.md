@@ -1,0 +1,10 @@
+- Home
+    - [Welcome!](README.md)
+    - [Make Changes to this Wiki](change.md)
+- What does Electronics do?
+    - [What do we do with the robot?](/about/robot.md)
+    - [What do we do in the off-season?](/about/offseason.md)
+-  How the Robot Works
+    - [Introduction](/howrobotworks/introduction.md)
+    - [Controlling the Robot](/howrobotworks/control.md)
+    - [Powering the Robot](/howrobotworks/power.md)
