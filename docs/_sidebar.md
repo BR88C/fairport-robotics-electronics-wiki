@@ -1,6 +1,6 @@
 
 - Home
-    - [Welcome!](README.md)
+    - [Welcome!](/)
     - [About](about.md)
 
 ***
