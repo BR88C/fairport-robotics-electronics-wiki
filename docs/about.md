@@ -1,6 +1,6 @@
 # About
 
-This website is hosted and managed by Bryce Roethel. If you are ever unable to access this website, contact me in Teams or at br88c@badfirmware.com. Thank you!
+This website is hosted and managed by BR88C. If you are ever unable to access this website, contact me in at br88c@badfirmware.com. Thank you!
 
 ### Make Changes to this Wiki
 
