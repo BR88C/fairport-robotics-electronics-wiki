@@ -1,4 +1,4 @@
-# Fairport Robotics Electronics Wiki
+# The Unofficial FRC Electronics Wiki
 A simple website made with docsify hosted [here](https://electronics.badfirmware.com/#/) for new robotics students that wish to learn about the basics of the electronics used on robots for FRC competitions.
 
 Feel free to fork the code, make any changes you feel necessary, and then submit a pull request!
