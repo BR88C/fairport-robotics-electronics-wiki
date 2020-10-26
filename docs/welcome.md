@@ -1,12 +1,9 @@
-# Team 578 Electronics Wiki
+# The unofficial FRC Electronics Wiki
 
 > Everything Electronics.
 
-Welcome to the electronics wiki! Here you will find information about the electronics sub-team, including:
- 
-- What the electronics sub-team does
-    - What we do with the robot
-    - What we do in the off-season
+Welcome to the unofficial FRC electronics wiki wiki! Here you will find information about electronics commonly used on robots in FRC competitions, including:
+
 - How the robot works
     - How it's Controlled
     - How It's Powered
